@@ -1,1 +1,1 @@
-Raw data collected from published literature and patents with reference number.
+We compiled raw data sourced from published literature and patents, accompanied by corresponding reference numbers.
